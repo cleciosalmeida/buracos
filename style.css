@@ -27,6 +27,11 @@ h1 {
     color: #0056b3;
     font-size: 24px;
     margin-bottom: 20px;
+    background-color: #e0f7fa; /* Cor de fundo suave */
+    padding: 15px 20px; /* Espaçamento interno para dar mais destaque */
+    border-radius: 8px; /* Bordas arredondadas */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra leve para dar profundidade */
+    display: inline-block; /* Ajusta o tamanho do fundo ao texto */
 }
 
 /* Estilo para os rótulos de campo */
